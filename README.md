@@ -62,7 +62,7 @@
 </p>
 
 - :man_technologist: Areas of interest: **Web development, Software development, App development, Mobile app development, Networking and Security, Cryptography, Database systems, DevOps**
-- 🔭 I’m currently working on personal projects, my crypto-steganographic algorithm and a few scientific papers
+- 🔭 I’m currently working as a JavaScript Developer. I'm also working on personal projects, my crypto-steganographic algorithm and a few scientific papers
 - 📫 How to reach me: [LinkedIn][LinkedIn]
 
 ### Statistics
