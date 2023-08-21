@@ -77,6 +77,7 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=itasevski&repo=ShareSpace)](https://github.com/itasevski/ShareSpace)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=itasevski&repo=Ebuy)](https://github.com/itasevski/Ebuy)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=itasevski&repo=Mailer)](https://github.com/itasevski/Mailer)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=itasevski&repo=Recruitment---EMANAGE)](https://github.com/itasevski/Recruitment---EMANAGE)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=itasevski&repo=RTISS)](https://github.com/itasevski/RTISS)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=itasevski&repo=AvioManager)](https://github.com/itasevski/AvioManager)
