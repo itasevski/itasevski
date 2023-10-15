@@ -1,7 +1,7 @@
 ## console.log("A machine that efficiently converts coffee into code.") :coffee:
 
 ###### > Bachelor of Computer Science and Engineering
-###### > JavaScript Developer
+###### > Full-Stack Engineer
 ###### > Scientist & Researcher
 ###### > Author of multiple scientific papers
 ###### > Creator of a crypto-steganographic algorithm published at numerous international conferences
@@ -62,7 +62,7 @@
 </p>
 
 - :man_technologist: Areas of interest: **Web development, Software development, App development, Mobile app development, Networking and Security, Cryptography, Database systems, DevOps**
-- 🔭 I’m currently working as a JavaScript Developer. I'm also working on personal projects, my crypto-steganographic algorithm and a few scientific papers
+- 🔭 I’m currently working as a Full-Stack Engineer. I'm also working on personal projects, my crypto-steganographic algorithm and a few scientific papers
 - 📫 How to reach me: [LinkedIn][LinkedIn]
 
 ### Statistics
